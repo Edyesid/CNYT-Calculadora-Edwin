@@ -50,4 +50,4 @@ Las coordenadas cartesianas de la segunda coordenada polar es: <br/>
 las coordenadas cartesianas funcionan primero convirtiendo el numero inicial a coordenadas polares, luego ese numero es convertido
 a coordenadas cartesianas, es por eso que las coordenadas cartesianas son similares a la de los numeros iniciales.
   
-  
+![alt text](https://i.ibb.co/6mGhMzv/Sin-t-tulo.png)
